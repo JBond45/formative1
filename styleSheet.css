@@ -1,5 +1,10 @@
-body{background-color:black;
-    color:whitesmoke}
+.bg1{background-color: orange;
+color:black}
+.bg2{background-color: palegoldenrod;
+color:black}
 #artist{background-color: peachpuff;
 color:black;
-outline-color: orange;}
+border: 5px orange;
+width: 400px;
+margin:10px;
+padding:5px;}
